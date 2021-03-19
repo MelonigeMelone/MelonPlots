@@ -1,0 +1,19 @@
+name: MelonPlots
+author: MelonigeMelone
+main: de.melonigemelone.plots.MelonPlots
+version: ${project.version}
+description: Main Core for the Server
+api-version: 1.16
+
+depend: [WorldEdit,WorldGuard,MelonAPI]
+
+
+commands:
+  createDistrict:
+  deleteDistrict:
+  setDistrictTeleport:
+  districtTeleport:
+  districtInfo:
+  createPlot:
+  deletePlot:
+  gs:
